@@ -1,4 +1,4 @@
 new test file
 abce
 123
-New command "Text"
+new command "Text"
