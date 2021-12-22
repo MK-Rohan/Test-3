@@ -15,7 +15,7 @@ def git(id, passwd):
     else:
       print("Sorry")
 
-test = git(id, PASSWORD)
+test = git("id", "PASSWORD")
 ```
 - 순서가
 - 있나요
