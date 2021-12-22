@@ -29,4 +29,4 @@ test = git("id", "PASSWORD")
 
 ~~취소선 입니다~~
 
-![이미지](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FPearsons-correlation-coefficient-r-heat-map-of-sapogenin-metabolites-and-putative_fig3_333462669&psig=AOvVaw2G6Xu0LAk73J7C9wriiZ2P&ust=1640244855341000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMiz5LTy9vQCFQAAAAAdAAAAABAD)
+![이미지](https://www.researchgate.net/publication/327309215/figure/fig5/AS:665339327156227@1535640665647/Heatmap-based-on-intensities-of-the-61-DAPs-associated-with-COR413-PM1-Red-color.png)
