@@ -29,6 +29,6 @@ test = git("id", "PASSWORD")
 
 ~~취소선 입니다~~
 
-[My github address](https://github.com/reskyzmk, "
+[My GitHub Address](https://github.com/reskyzmk, "major: bioinformatics")
 
 ![이미지](https://www.researchgate.net/publication/327309215/figure/fig5/AS:665339327156227@1535640665647/Heatmap-based-on-intensities-of-the-61-DAPs-associated-with-COR413-PM1-Red-color.png)
